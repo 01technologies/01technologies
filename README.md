@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/01technologies/01technologies/blob/main/01tech-logo2" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/01technologies/01technologies/blob/main/01tech-logo2.jpeg" width="400"></a></p>
 
 👋 Hi, Welcome to 01 Technologies LTD
 
